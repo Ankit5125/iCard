@@ -12,7 +12,7 @@ body {
     justify-content: center;
     height: 100vh;
 }
-
+ 
 .main {
     height: 380px;
     width: 350px;
@@ -32,7 +32,7 @@ body {
 .main::before {
     content: '';
     position: absolute;
-    height: 45%;
+    height: 42%;
     width: 100%;
     background-color: rgb(97, 29, 8);
     top: 0;
